@@ -113,7 +113,7 @@ Indica que al entrar al contenedor por los puertos redirije al servicio prestash
       - frontend-network
 ```
 Indica el network
-```
+```yml
 volumes:
   mysql_data:
   prestashop_data:
